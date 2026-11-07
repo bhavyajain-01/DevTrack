@@ -1,6 +1,3 @@
-आपके प्रोजेक्ट के लिए यह एक बेहतरीन, प्रोफेशनल और पूरी तरह से अपडेटेड README.md फ़ाइल तैयार है। इसे आप सीधे अपने VS Code में README.md नाम की फ़ाइल बनाकर उसमें कॉपी-पेस्ट कर सकती हैं:
-
-Markdown
 # DevTrack - Issue & Reporter Management System
 
 DevTrack is a robust Django-based backend application designed to streamline issue tracking, priority classification, and reporter management using local JSON data persistence and custom validation logic.
@@ -35,8 +32,7 @@ Follow these steps to set up and run the project locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/आपक](https://github.com/आपक)ा-यूजरनेम/DevTrack.git
-   cd DevTrack
+   git clone [https://github.com/bhavyajain-01/DevTrack]
 Activate your virtual environment:
 
 Bash
